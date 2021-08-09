@@ -147,6 +147,11 @@
         "description": "Sudo Users Id",
         "value": "",
         "required": true
+      },
+      "PING_MESSAGE": {
+        "description": "Custom ping message",
+        "value": "",
+        "required": false
       }
   },
   "addons": [{
