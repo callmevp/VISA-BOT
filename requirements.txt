@@ -2,3 +2,5 @@ Telethon
 python-dotenv
 asyncio
 TgCrypto
+heroku3
+gitpython
