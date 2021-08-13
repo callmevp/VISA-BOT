@@ -41,6 +41,7 @@
 
 [![REPL](https://replit.com/badge/github/callmevp/VISA-SPAM-BOT)](https://replit.com/@callmevp/VISA-SPAM-BOT)
     
+You can Use these [API ID and API HASH](https://t.me/MissVisa_Official/25) while deploying
 -------------------------------------------------
 
 ## credits 
