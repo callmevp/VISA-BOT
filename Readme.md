@@ -33,7 +33,7 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callmevp/VISA-SPAM-BOT-HOST.git)
+[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fcallmevp%2FVISA-SPAM-BOT&template=https%3A%2F%2Fgithub.com%2Fcallmevp%2FVISA-SPAM-BOT)
 ------------------------------------------------
 
 
