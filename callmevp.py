@@ -1585,7 +1585,7 @@ async def get_chatinfo(event):
     try:
         chat_info = await event.client(GetFullChatRequest(chat))
     except
-      try:
+        try:
             chat_info = await event.client(GetFullChannelRequest(chat))
         except ChannelInvalidError:
             await event.reply("`Invalid channel/group`")
