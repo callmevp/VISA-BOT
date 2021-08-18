@@ -1,7 +1,7 @@
 # VISA SPAMMER
 
 <p align="center">
-  <img src="https://telegra.ph/file/389c2205934eb25cf487d.jpg">
+  <img src="https://telegra.ph/file/209cbbbca387d4c2de4b1.jpg">
 </p>
 
 
