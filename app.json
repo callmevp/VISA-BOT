@@ -148,15 +148,6 @@
         "value": "",
         "required": true
       },
-      "HEROKU_API_KEY": {
-        "description": "Heroku API token. Needed if deploying on heroku ONLY.",
-        "value": "",
-        "required": true
-      },
-      "HEROKU_APP_NAME": {
-        "description": "Name of your heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
-        "value": "",
-        "required": true
   },
   "addons": [{
     "plan": "heroku-postgresql",
