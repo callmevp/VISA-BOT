@@ -1,5 +1,5 @@
 {
-  "name": " VISA-SPAM BOT",
+  "name": "VISA MULTI SPAM BOT",
   "description": "A POWERFULL AND FAST SPAM BOT.",
   "logo": "https://telegra.ph/file/6d6e75f8ac7b22faf6eb3.jpg",
   "keywords": [
@@ -147,7 +147,7 @@
         "description": "Sudo Users Id",
         "value": "",
         "required": true
-      },
+      }
   },
   "addons": [{
     "plan": "heroku-postgresql",
