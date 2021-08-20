@@ -970,7 +970,7 @@ async def _(e):
             except Exception as e:
                 await event.edit(str(e))   
         else:
-            await e.reply(usage, parse_mode=None, link_preview=None 
+            await e.reply(usage, parse_mode=None, link_preview=None)
             
 
 USTAD_PIC = "https://telegra.ph/file/209cbbbca387d4c2de4b1.jpg"
