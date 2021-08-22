@@ -1,4 +1,4 @@
-Telethon
+telethon==1.19.0
 python-dotenv
 asyncio
 TgCrypto
