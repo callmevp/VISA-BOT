@@ -68,25 +68,25 @@ async def get_users(event):
     f = 0
     error = "None"
 
-    await LEGEND.edit("**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Tgxbotz_chat)**\n\n`🔸ιиνιτιиg Ⴎѕєяѕ.......`")
+    await LEGEND.edit("**⚜️[Ͳєямιиαℓ Տτατυѕ](https://t.me/Visa_Support)**\n\n`🔸ιиνιτιиg Ⴎѕєяѕ.......`")
     async for user in event.client.iter_participants(aura.full_chat.id):
         try:
             if error.startswith("Too"):
                 return await LEGEND.edit(
-                    f"[τєямιиαℓ ƒιиιѕнє∂ ωιτн єяяοя](https;//t.me/Tgxbotz_chat)\n`🔸 мαγ gοτ ℓιмιτє∂ ƒяοм τєℓєτнοи ρℓєαѕє τяγ αgαιи ℓατєя`\n🔸 єяяοя : \n`{error}`\n\n🔸 ιиνιτє∂ `{s}` ρєορℓє \n ⚠️ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+                    f"[τєямιиαℓ ƒιиιѕнє∂ ωιτн єяяοя](https;//t.me/Visa_Support)\n`🔸 мαγ gοτ ℓιмιτє∂ ƒяοм τєℓєτнοи ρℓєαѕє τяγ αgαιи ℓατєя`\n🔸 єяяοя : \n`{error}`\n\n🔸 ιиνιτє∂ `{s}` ρєορℓє \n ⚠️ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
                 )
             await event.client(
                 functions.channels.InviteToChannelRequest(channel=chat, users=[user.id])
             )
             s = s + 1
             await LEGEND.edit(
-                f"[τєямιиαℓ яυииιиg](https://t.me/Tgxbotz_chat)\n\n🔸 ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє \n\n** ℓαѕτ єяяοя** `{error}`"
+                f"[τєямιиαℓ яυииιиg](https://t.me/Visa_Support)\n\n🔸 ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє \n\n** ℓαѕτ єяяοя** `{error}`"
             )
         except Exception as e:
             error = str(e)
             f = f + 1
     return await LEGEND.edit(
-        f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Tgxbotz_chat) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
+        f"[τєямנиαℓ ƒιиιѕнє∂](https://t.me/Visa_Support) \n\n🔸 Sυϲϲєѕѕƒυℓℓγ ιиνιτє∂ `{s}` ρєορℓє \n⚠️ ƒαιℓє∂ το ιиνιτє `{f}` ρєορℓє"
     )
 
 
