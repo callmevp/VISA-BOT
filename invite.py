@@ -1,11 +1,3 @@
-# Originally made by @rekcah for @javes05
-# porting to hellbot by @Kraken_The_BadAss...
-# i asked rekcah before porting...not like other kangers....
-# keep credit if u wanna kang...
-# Now in AuraXBot
-# else u are a gay...no doubt in that....
-
-# --------------------------------------------------------------------------------------------------------------------------------
 
 from telethon.errors import (
     ChannelInvalidError,
@@ -17,7 +9,7 @@ from telethon.tl.functions.channels import GetFullChannelRequest
 from telethon.tl.functions.messages import GetFullChatRequest
 
 from userbot import CMD_HELP
-from AuraXBot.utils import admin_cmd, edit_or_reply, sudo_cmd
+from VISABot.utils import admin_cmd, edit_or_reply, sudo_cmd
 from userbot.cmdhelp import CmdHelp
 
 async def get_chatinfo(event):
@@ -70,22 +62,22 @@ async def get_users(event):
     sender = await event.get_sender()
     me = await event.client.get_me()
     if not sender.id == me.id:
-        AuraX = await edit_or_reply(event, "`processing...`")
+        VISA = await edit_or_reply(event, "`processing...`")
     else:
-        AuraX = await edit_or_reply(event, "`processing...`")
+        VISA = await edit_or_reply(event, "`processing...`")
     aura = await get_chatinfo(event)
     chat = await event.get_chat()
     if event.is_private:
-        return await AuraX.edit("`Sorry, Cant add users here`")
+        return await VISA.edit("`Sorry, Cant add users here`")
     s = 0
     f = 0
     error = "None"
 
-    await AuraX.edit("**TerminalStatus**\n\n`Collecting Users.......`")
+    await VISA.edit("**TerminalStatus**\n\n`Collecting Users.......`")
     async for user in event.client.iter_participants(aura.full_chat.id):
         try:
             if error.startswith("Too"):
-                return await AuraX.edit(
+                return await VISA.edit(
                     f"**Terminal Finished With Error**\n(`May Got Limit Error from telethon Please try agin Later`)\n**Error** : \n`{error}`\n\n• Invited `{s}` people \n• Failed to Invite `{f}` people"
                 )
             await event.client(
@@ -98,7 +90,7 @@ async def get_users(event):
         except Exception as e:
             error = str(e)
             f = f + 1
-    return await AuraX.edit(
+    return await VISA.edit(
         f"**Terminal Finished** \n\n• Successfully Invited `{s}` people \n• failed to invite `{f}` people"
     )
 
