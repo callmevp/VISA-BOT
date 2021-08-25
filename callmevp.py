@@ -1695,10 +1695,8 @@ async def help(e):
 "𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐂𝐎𝐌𝐌𝐌𝐀𝐍𝐃𝐒 𝐈𝐍 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』\n\n𝐔𝐓𝐈𝐋𝐒 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.ping\n.restart\n\n𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.bio\n.join\n.pjoin\n.leave\n.alive\n𝐒𝐏𝐀𝐌 𝐂𝐎𝐌𝐌𝐀𝐍𝐃:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name/n Powered by @MissVisa_Official"
        await e.reply(text, parse_mode=None, link_preview=None )
 
-        
 
-    
-        
+       
 text = """
 💥💥ϲοɴɢʀѧ𝞽υւѧ𝞽ɪοɴ𝒔 υʀ 『ᴠɪsᴀ sᴘᴀᴍ ʙᴏᴛ』 ɪ𝒔 ʀᴇѧᴅ𝞬💥💥💥
 💥💥💥💥💥💥 ʙ𝞬 οᴩ ϲѧււϻᴇ𝘃ᴩ 💥💥💥💥💥💥"""
