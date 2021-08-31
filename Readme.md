@@ -62,6 +62,13 @@
 
 </details>
 
+<details><summary> <h1 align="center">🧾STATUS 🧾</h1> </summary>
+
+ ## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
+<p align="left"><a href="https://github.com/callmevp/VISA-BOT/network/members"><img src="https://img.shields.io/github/forks/callmevp/VISA-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/callmevp/VISA-BOT/stargazers"><img src="https://img.shields.io/github/stars/callmevp/VISA-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/callmevp/VISA-BOT"></a><p align="left"><a href="https://github.com/callmevp/VISA-BOT?"><img src="https://img.shields.io/github/last-commit/callmevp/VISA-BOT?style=plastic"></
+
+</details>
+
  <details><summary> <h3>• 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 •</h3> </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
