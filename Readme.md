@@ -1,49 +1,102 @@
-# 𝘃ɪ𝒔ѧ ϻυւ𝞽ɪ 𝒔ᴩѧϻ ʙο𝞽
 
-<p align="center">
-  <img src="https://telegra.ph/file/209cbbbca387d4c2de4b1.jpg">
-</p>
+[![callmevp/Visa-Spam-Bot](https://img.shields.io/static/v1?label=Callmevp&message=Visa-Spam-Bot&color=blue&logo=github)](https://github.com/callmevp/VISA-BOT)
+[![License](https://img.shields.io/badge/License-GNU-blue)](#license)
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/callmevp/VISA-SPAM-BOT?utm_source=github.com&utm_medium=referral&utm_content=callmevp/VISA-SPAM-BOT&utm_campaign=Badge_Grade_Settings)
-[![Size](https://img.shields.io/github/repo-size/callmevp/VISA-SPAM-BOT?style=flat-square&color=green)](https://github.com/callmevp/VISA-SPAM-BOT/)   
-[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/callmevp/VISA-SPAM-BOT/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/callmevp/VISA-SPAM-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/callmevp/VISA-SPAM-BOT?style=flat-square&color=green)](https://github.com/callmevp/VISA-SPAM-BOT/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/callmevp/VISA-SPAM-BOT/blob/main/LICENSE)
-
-----
-
-## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
-<p align="left"><a href="https://github.com/callmevp/VISA-SPAM-BOT/network/members"><img src="https://img.shields.io/github/forks/callmevp/VISA-SPAM-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/callmevp/VISA-SPAM-BOT/stargazers"><img src="https://img.shields.io/github/stars/callmevp/VISA-SPAM-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/callmevp/VISA-SPAM-BOT"></a><p align="left"><a href="https://github.com/callmevp/VISA-SPAM-BOT?"><img src="https://img.shields.io/github/last-commit/callmevp/VISA-SPAM-BOT?style=plastic"></
-
--------------------------------------------------
-
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
-                          
-<a href="https://t.me/Visa_Support"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/MissVisa_Official"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
-
--------------------------------------------------
-
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[CALLMEVP](https://t.me/CALL_ME_VP)
-
--------------------------------------------------
-
-## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fcallmevp%2FVISA-BOT&template=https%3A%2F%2Fgithub.com%2Fcallmevp%2FVISA-BOT)
-------------------------------------------------
+<h1 align="center"> 🇮🇳⚡𝘃ɪ𝒔ѧ ϻυւ𝞽ɪ 𝒔ᴩѧϻ ʙο𝞽🇮🇳 </h1>
 
 
-𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
 
-[![REPL](https://replit.com/badge/github/callmevp/VISA-SPAM-BOT)](https://replit.com/@callmevp/VISA-SPAM-BOT)
+ 
+
+[![VISA-BOT](https://telegra.ph/file/2ea073c8a9e40461fc6f5.jpg)](https://t.me/Visa_Support)
+
+
+<details><summary> <h1 align="center">🧾𝙸𝙽𝚂𝚃𝚁𝚄𝙲𝚃𝙸𝙾𝙽𝚂🧾</h1> </summary>
+
+  - Read carefully
+        
+        - Fork at your own risk.
+        
+        - Owner will not be responsible for any kinds for ban due to bot.
+
+        - Please ask to owner before using codes.
+</details>
+
+<details><summary> <h1 align="center">⚡ 𝙳𝙴𝙿𝙻𝙾𝚈𝙸𝙽𝙶 ⚡</h1> </summary>
+ 
+
+### DEPLOY TO HERUOKU
+  - To host on heroku click on below link
     
-You can Use these [API ID and API HASH](https://t.me/MissVisa_Official/25) while deploying
--------------------------------------------------
 
-## credits 
+    <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FCallmevp%2FVISA-BOT&template=https%3A%2F%2Fgithub.com%2Fcallmevp%VISA-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+     </a>
 
-[yukki bot](https://github.com/YukkiBot/YukkiMultiSpamBot)
+  
+</details>
+
+<details><summary> <h1 align="center">𝚂𝚃𝚁𝙸𝙽𝙶 𝚂𝙴𝚂𝚂𝙸𝙾𝙽</h1> </summary>
+ 
+
+## 
+  - Generate String session on repl it
+   
+       
+
+      [![REPL](https://replit.com/badge/github/callmevp/VISA-SPAM-BOT)](https://replit.com/@callmevp/VISA-SPAM-BOT)
+        
+
+    - Then Fill The Required Details.
+    - PHONE NUMBER (WITH COUNTRY CODE)
+
+</details>
+
+<details><summary> <h1 align="center">𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 </h1> </summary>
+ 
+<a href="https://t.me/Visa_Update"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/Visa_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/call_me_vp)
+
+</details>
+
+ <details><summary> <h3>• 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 •</h3> </summary>
+
+![](https://www.gnu.org/graphics/gplv3-or-later.png)
+
+Copyright (C) 2021 Pushpendra6367
+
+Poject [Destroyer-X](https://github.com/callmevp/VISA-BOT) is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+Released under [GNU](/LICENSE) by [ @Pushpendra6367](https://github.com/Pushpendra6367).
+
+</details>
+
+<details> <summary> <h3>•𝙼𝙰𝙽𝙳𝙰𝚃𝙾𝚁𝚈 𝚅𝙰𝚁𝚂•</h3> </summary>
+
+  - Some of the environment variables are mandatory.
+- These are listed below.
+   
+    - `STRING_SESSION`:   You can get this value from  just using [repl run](https://replit.com/@callmevp/VISA-SPAM-BOT).
+    
+- The spambot will not work without setting the mandatory vars.
+# README BY 
+[![README CREDIT](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/nikkuiii)
+
+
+</details>
+
+
