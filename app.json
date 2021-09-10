@@ -143,6 +143,11 @@
         "value": "",
         "required": true
       },
+      "ALIVE_PIC": {
+        "description": "fill with telegraph link of any media",
+        "value": "",
+        "required": true
+      },
       "SUDO": {
         "description": "Sudo Users Id",
         "value": "",
